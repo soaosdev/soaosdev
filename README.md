@@ -24,7 +24,7 @@ Silas Bartha Silas Bartha Silas Bartha Silas Bartha Silas Bartha Silas Bartha Si
 
 # FUKCIG BRILLIANT ARTISTRY OF SILAS BARTHA
 
-```bash
+```brainfuck
                               ..     ..     .                                               
                               .'',,,',.'',..'                                               
                             .',''.''...','..''...                                           
