@@ -1,3 +1,7 @@
-soaos
+also see:
 
-also see https://git.exvacuum.dev
+https://soaos.dev
+
+https://git.soaos.dev
+
+[???](https://forum.soaos.dev)
