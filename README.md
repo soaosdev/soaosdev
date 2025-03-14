@@ -2,7 +2,7 @@ also see:
 
 https://soaos.dev
 
-https://git.soaos.dev
+https://git.soaos.dev/soaos
 
 [???](https://forum.soaos.dev)
 
