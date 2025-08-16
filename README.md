@@ -1,7 +1,7 @@
-also see:
+goodbye
 
-https://soaos.dev
+see:
 
-https://git.soaos.dev/soaos << I'VE MOVED HERE MOSTLY
+https://soaos.dev / http://3uqdpspct5xocufs6d4wbdelxlqp4bmciwcgwmqv6c5f2gdsqvawgaad.onion/
 
-[???](https://forum.soaos.dev)
+https://app.radicle.xyz/nodes/seed.soaos.dev <-- git repos here
