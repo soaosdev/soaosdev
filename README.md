@@ -1,4 +1,4 @@
-goodbye
+personal work has moved elsewhere, but i'm back to contribute to some projects!
 
 see:
 
